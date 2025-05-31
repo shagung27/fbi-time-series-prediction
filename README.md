@@ -48,7 +48,7 @@ This project focuses on analyzing and forecasting FBI crime data using time seri
 ## Dashboard Preview
 ![power-bi-dashboard](https://github.com/user-attachments/assets/da718f84-7275-4b99-a0e2-66b79d83b01d)
 
-(Demo vide)[https://drive.google.com/file/d/1n1k28ezfLBl7Z01CDt7aiJ2lyezXZ2D1/view?usp=sharing]
+![Demo video](https://drive.google.com/file/d/1n1k28ezfLBl7Z01CDt7aiJ2lyezXZ2D1/view?usp=sharing)
 ---
 
 Feel free to fork, improve, or raise issues in this repository!
